@@ -1,0 +1,6 @@
+﻿1) Problem Identification : Problem identified Domain is  Nephrologist ( To Predict the chronic Kidney Disease )
+2) Data Provided by the Hospital ( 25 Features as Coloumns and 400 customers data as Rows [ 25 coloumns , 400 rows ]  )
+3) Preprocessing steps involved : Converted object and string to numeric Data frame
+4) Considering the Feature Importance ,I used Random Forest classifier Algorithm and evaluated it using Confusion matrix , accuracy score , classification Report
+5) All the Research methods and Tutorial was properly Documented in IPYNB file
+
